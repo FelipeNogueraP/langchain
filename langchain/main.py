@@ -56,6 +56,7 @@ chain = agent_executor
 # response = chain.invoke(input={"information": information})
 # print(response.content)
 
+# ReAct = Reason + Act
 
 def main():
     print("Running langchain Agent!")
